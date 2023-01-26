@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class @ref
     {
-        static void Main(string[] args)
+        static void Main_b(string[] args)
         {
             int a = 40;
             int b = 10;
