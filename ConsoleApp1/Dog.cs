@@ -18,7 +18,7 @@ namespace ConsoleApp1
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main_c(string[] args)
         {
             Dog dog = new Dog(); // Dog클래스를 기반으로 dog 객체 생성, Dog()는 생성자
             dog.name = "칸"; // 필드 값 초기화
