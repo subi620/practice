@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class Out
     {
-        static void Main(string[] args)
+        static void Main_e(string[] args)
         {
             int a; // 변수 a, 초기화는 안되있음
 

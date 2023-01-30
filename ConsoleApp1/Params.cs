@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class Params
     {
-        static void Main(string[] args)
+        static void Main_f(string[] args)
         {
             Console.WriteLine("sum={0}", total(20, 10, 40, 4, 7, 6, 44, 55, 2));
             Console.WriteLine("sum={0}", total(30, 4, 5));

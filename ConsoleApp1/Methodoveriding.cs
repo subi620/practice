@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class Methodoveriding
     {
-        static void Main(string[] args)
+        static void Main_d(string[] args)
         {
             Console.WriteLine("{0}", Add(50, 10));
             Console.WriteLine("{0}", Add(544.2, 63.2));
